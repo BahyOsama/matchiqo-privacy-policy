@@ -26,7 +26,7 @@ The Privacy Policy explains how Matchiqo handles user information, including:
 
 Official Privacy Policy:
 
-https://BahyOsama.github.io/matchiqo-privacy-policy/
+https://bahyosama.github.io/matchiqo-privacy-policy/
 
 Replace "USERNAME" with the GitHub account username.
 
@@ -56,7 +56,7 @@ To publish or update it:
 
 The website will be published at:
 
-"https://BahyOsama.github.io/matchiqo-privacy-policy/"
+"https://bahyosama.github.io/matchiqo-privacy-policy/"
 
 Contact & Privacy Requests
 
